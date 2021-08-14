@@ -1,0 +1,163 @@
+html {
+  background-color: #181818;
+}
+
+header {
+  text-align: right;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+nav {
+  background: rgba(0, 0, 0, 0.65);
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+#prevweek {
+  font-size: 25px;
+  margin-right: 964px;
+  padding-left: 10px;
+  color: #f88056;
+}
+#prevweek:hover {
+  color: antiquewhite;
+}
+
+#nextweek {
+  font-size: 25px;
+  padding-right: 10px;
+  color: #f88056;
+}
+#nextweek:hover {
+  color: antiquewhite;
+}
+
+#contentsdiv {
+  margin-left: 500px;
+  display: table;
+  border: solid;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-color: whitesmoke;
+  background-color: black;
+  border-radius: 100px;
+}
+
+.masterlist {
+  margin: 5px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.masterlistitems {
+  padding-bottom: 8px;
+  color: aliceblue;
+  font-size: 18px;
+}
+
+.sublistitems {
+  padding: 5px;
+  font-size: 17px;
+}
+
+.subsublist {
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.subsublistitems {
+  padding: 5px;
+  font-size: 15px;
+}
+
+.subsublink:visited {
+  color: #e3ccc1;
+}
+.subsublink:hover {
+  color: #edae8f;
+}
+
+article {
+  font-family: Moonlight;
+  text-align: center;
+}
+h2 {
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.poemdiv {
+  border-radius: 10px;
+}
+#poemheading {
+  font-size: 40px;
+  background-color: brown;
+  border-radius: 10px;
+  padding-left: 10px;
+  letter-spacing: 10px;
+}
+#breakdownheading {
+  font-size: 40px;
+  background-color: brown;
+  border-radius: 10px;
+  padding-left: 10px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+#poem {
+  font-size: 23px;
+  line-height: 44px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  font-family: Indie;
+  color: white;
+  text-align: left;
+}
+
+.breakdowndiv {
+  background-color: black;
+  border-radius: 10px;
+}
+#breakdown {
+  font-size: 20px;
+  line-height: 25px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  background-color: rgba(8, 10, 0, 0.5);
+  padding: 10px;
+  text-align: center;
+}
+.footerlist {
+  padding-right: 55px;
+  line-height: 35px;
+  font-size: 20px;
+}
+#footerlink:link {
+  color: #ecc231;
+}
+#footerlink:visited {
+  color: #ecc231;
+}
+#footerlink:hover {
+  color: #f4eaa6;
+}
+
+h4 {
+  color: #fdefde;
+  font-size: 25px;
+}
+.julyEditiondiv {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.julyEdition {
+  font-size: 80px;
+  color: white;
+  font-family: Bankai;
+}
